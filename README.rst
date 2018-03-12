@@ -1,4 +1,4 @@
-pgbackup
+HR-JSON
 ========
 
 Python package to manage users on a server based on an “inventory” JSON file
